@@ -6,17 +6,18 @@ body {
 }
 
 img {
-  diplay: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  height: 325px;
+  height: 400px;
   padding-bottom: 25px;
 }
 
 h1 {
   color: #DA0000;
   font-size: 60px;
+  background-color: #848484;
 }
 
 h2 {
@@ -25,15 +26,27 @@ h2 {
 }
 
 h3 {
-  color: blue;
   font-size: 30px;
   margin-bottom: 10px;
 }
 
 p {
   font-size: 25px;
+  padding-left: 75px;
+  padding-right: 75px;
+}
+
+#hotel {
+  height: 400px;
+  width: 1200px;
 }
 
 a {
+  color: #DA0000;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
+#menu {
+  background-color: #848484;
 }
